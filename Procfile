@@ -1,1 +1,1 @@
-web: gunicorn src/core.wsgi
+web: python src/serve.py
