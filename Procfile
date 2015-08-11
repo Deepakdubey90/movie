@@ -1,1 +1,1 @@
-web: python src/serve.py
+web: python src/manage.py runserver
