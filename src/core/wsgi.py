@@ -1,4 +1,4 @@
-B1;3409;0c"""
+"""
 WSGI config for movie project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
