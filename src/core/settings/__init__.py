@@ -14,6 +14,7 @@ import os
 import datetime
 
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+ALLOWED_HOSTS = ['*']
 
 # Include the right settings
 try:
